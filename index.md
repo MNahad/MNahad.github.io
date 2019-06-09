@@ -14,7 +14,7 @@ Coming from an aerospace background, you can see a bunch of cool prior projects 
 
 ... when I designed [an autonomous multirotor drone ...](https://github.com/MNahad/soton-multirotor)
 
-![QuadFly](https://github.com/MNahad/soton-multirotor/raw/master/assets/Untitled2.jpg "The UAV in flight"){:max-width="10%"}
+![QuadFly](https://github.com/MNahad/soton-multirotor/raw/master/assets/Untitled2.jpg "The UAV in flight"){:width="10%"}
 
 ... or when I developed software for [an operational distributed satellite ground station network.](https://github.com/UoS3)
 
