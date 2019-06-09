@@ -1,10 +1,3 @@
----
-project-name: "This is MNahad"
-project-tagline: "This is the coder you are looking for"
----
+# Hi!
 
-### Hello
-
-## World
-
-# Watch this space
+### Content is imminent ... watch this space
