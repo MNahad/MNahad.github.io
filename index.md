@@ -4,13 +4,17 @@ Welcome to my GitHub Page
 
 #### I was introduced to coding well before the first iPhone came out, and I have embraced it ever since.
 
-![avatar](https://avatars0.githubusercontent.com/u/15460982){:width="128px"} [Check out my GitHub account](https://GitHub.com/MNahad)
+![avatar](https://avatars0.githubusercontent.com/u/15460982){:width="128px"}
 
-My interests lie in applying cutting-edge solutions to solve practical problems. Coming from an aerospace background, you can see a bunch of cool prior projects that I did, _such as_ ...
+[Check out my GitHub account](https://GitHub.com/MNahad)
+
+#### My interests lie in applying cutting-edge solutions to solve practical problems.
+
+Coming from an aerospace background, you can see a bunch of cool prior projects that I did, _such as_ ...
 
 [... when I designed an autonomous multirotor drone ...](https://github.com/MNahad/soton-multirotor)
 
-![QuadFly](https://github.com/MNahad/soton-multirotor/raw/master/assets/Untitled2.jpg "The UAV in flight"){:width="50vw"}
+![QuadFly](https://github.com/MNahad/soton-multirotor/raw/master/assets/Untitled2.jpg "The UAV in flight"){:max-width="50%"}
 
 [... or when I developed software for an operational distributed satellite ground station network](https://github.com/UoS3)
 
