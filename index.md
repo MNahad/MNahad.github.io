@@ -1,6 +1,6 @@
 # Hi!
 
-Welcome to my GitHub Page.
+Welcome to my Page.
 
 ### I was introduced to coding well before the first iPhone came out, and I have embraced it ever since.
 
