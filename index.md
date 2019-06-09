@@ -12,12 +12,12 @@ My interests lie in applying cutting-edge solutions to solve practical problems.
 
 [... when I designed an autonomous multirotor drone ...](https://github.com/MNahad/soton-multirotor)
 
-![QuadFly](https://github.com/MNahad/soton-multirotor/blob/master/assets/Untitled2.jpg "The UAV in flight"){:width="320px"}
+![QuadFly](https://github.com/MNahad/soton-multirotor/raw/master/assets/Untitled2.jpg "The UAV in flight"){:width="320px"}
 
 [... or when I developed software for an operational distributed satellite ground station network](https://github.com/UoS3)
 
-#### I'm always into trying out new stuff, and my GitHub repos are a collection of ideas and projects that excite me (and that I'm ok with keeping public :smile: ).
+![UoS3](https://avatars3.githubusercontent.com/u/27415968){:width="128px"}
 
-![demo](https://github.com/MNahad/great-uni-hack-18/blob/master/assets/demo.gif){:width="320px"}
+#### I'm always into trying out new stuff, and my GitHub repos are a collection of ideas and projects that excite me (and that I'm ok with keeping public 😄 ).
 
-In my repos you will find stuff that spans _Computer Vision, ML, Blockchain, IoT, Edge Computing_ ... I'm always working on something different, and my GitHub is one of the places I use to showcase my nice things :smiley: .
+In my repos you will find stuff that spans _Computer Vision, ML, Blockchain, IoT, Edge Computing_ ... I'm always working on something different, and my GitHub is one of the places I use to showcase my nice things 😃 .
