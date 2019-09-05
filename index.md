@@ -1,3 +1,7 @@
+# To watch the MSc ACSE Project Demonstration, please click the image below to open the video.
+
+[![Fault Tolerant Robotics and Fault Diagnosis](https://img.youtube.com/vi/QseSQ-75efg/1.jpg){:width="50%"}](https://youtu.be/QseSQ-75efg)
+
 # Hi!
 
 Welcome to my Page.
